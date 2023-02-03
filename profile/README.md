@@ -1,2 +1,3 @@
-# A organization for tools used in processing fiberseq data
+# `fiberseq` 
+This is a organization for tools used in processing fiberseq data. 
 
